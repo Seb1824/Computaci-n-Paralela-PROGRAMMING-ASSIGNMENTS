@@ -1,0 +1,9 @@
+# Ignorar ejecutables y binarios
+problem*
+!*.c
+
+# Archivos temporales
+*.o
+*.out
+*.exe
+*.log
